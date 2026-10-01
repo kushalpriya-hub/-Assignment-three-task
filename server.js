@@ -1,0 +1,1 @@
+//Starts HTTP server + central error handling
